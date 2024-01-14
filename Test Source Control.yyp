@@ -35,8 +35,10 @@
   },
   "resources": [
     {"id":{"name":"spr_bang_alex","path":"sprites/spr_bang_alex/spr_bang_alex.yy",},},
+    {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},},
     {"id":{"name":"obj_test1","path":"objects/obj_test1/obj_test1.yy",},},
     {"id":{"name":"obj_bang","path":"objects/obj_bang/obj_bang.yy",},},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"obj_bang_alex","path":"objects/obj_bang_alex/obj_bang_alex.yy",},},
     {"id":{"name":"obj_shoot","path":"objects/obj_shoot/obj_shoot.yy",},},

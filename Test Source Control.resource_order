@@ -18,7 +18,9 @@
   ],
   "ResourceOrderSettings": [
     {"name":"spr_bang_alex","order":2,"path":"sprites/spr_bang_alex/spr_bang_alex.yy",},
+    {"name":"Object4","order":3,"path":"objects/Object4/Object4.yy",},
     {"name":"obj_bang","order":1,"path":"objects/obj_bang/obj_bang.yy",},
+    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
     {"name":"obj_bang_alex","order":3,"path":"objects/obj_bang_alex/obj_bang_alex.yy",},
     {"name":"obj_shoot","order":2,"path":"objects/obj_shoot/obj_shoot.yy",},
