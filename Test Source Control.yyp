@@ -36,6 +36,8 @@
   "resources": [
     {"id":{"name":"obj_test1","path":"objects/obj_test1/obj_test1.yy",},},
     {"id":{"name":"obj_bang","path":"objects/obj_bang/obj_bang.yy",},},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
+    {"id":{"name":"obj_shoot","path":"objects/obj_shoot/obj_shoot.yy",},},
     {"id":{"name":"spr_bang","path":"sprites/spr_bang/spr_bang.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
   ],
